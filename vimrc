@@ -13,7 +13,6 @@ set hlsearch
 " 设置折叠方式
 set foldmethod=indent
 
-kk
 "----------- 
 " 2.常用映射
 "----------- 
